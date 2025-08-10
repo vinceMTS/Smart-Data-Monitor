@@ -67,8 +67,8 @@ A public demo version (binary only) will be released soon for preview purposes.
 
 For questions, collaborations, or licensing inquiries, contact:
 
-📧 📘[your email address]  
-🔗 📘[LinkedIn or GitHub profile link]
+📧 levita.vincenzo8@gmail.com
+🔗 https://github.com/vinceMTS/
 
 ---
 
