@@ -1,0 +1,9 @@
+Copyright (c) 2025 Vincenzo Levita
+All rights reserved.
+
+This software and its related documentation are proprietary and confidential.  
+Any form of copying, modification, distribution, reverse engineering, or reuse, in whole or in part, is strictly prohibited without prior written permission from the author.
+
+The content in this repository is provided for preview and informational purposes only.
+
+For licensing or commercial use, please contact: levita.vincenzo8@gmail.com
